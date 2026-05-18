@@ -1,0 +1,7 @@
+admin,h$407908580,0,1,
+firdos,h$2088290703,2,2,
+seada2,h$2088290703,1,1,C:\\Users\\HELLO\\Desktop\\cppAssingment\\logo.bmp
+muaz,h$2088290703,2,1,C:\\Users\\HELLO\\Desktop\\cppAssingment\\logo.bmp
+firdi,h$2088290703,1,1,C:\\Users\\HELLO\\Desktop\\cppAssingment\\logo.bmp
+hosana,h$2088290703,2,1,C:\\Users\\HELLO\\Desktop\\cppAssingment\\logo.bmp
+buyer,h$254712332,2,0,C:\\Users\\HP\\Downloads\\car 1.png
