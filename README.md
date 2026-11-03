@@ -9,22 +9,6 @@ A high-performance desktop property and vehicle brokerage platform built nativel
 
 ---
 
-## 📸 Desktop Application Screenshots
-
-<div align="center">
-  <img src="docs/screenshots/broker_system_dashboard.png" alt="Broker System Main Marketplace" width="90%" />
-  <p><i>Figure 1: Native Win32 / GDI+ desktop dashboard displaying property/vehicle cards and search filters.</i></p>
-</div>
-
-<div align="center">
-  <img src="docs/screenshots/admin_kyc_verification.png" alt="Admin Verification & Commission Engine" width="90%" />
-  <p><i>Figure 2: Admin KYC document inspection panel and automated 5% commission calculation engine.</i></p>
-</div>
-
-> **Tip:** Add your desktop GUI screenshots to `docs/screenshots/broker_system_dashboard.png` and `docs/screenshots/admin_kyc_verification.png`.
-
----
-
 ## 🧠 Custom Data Structures (Built From Scratch)
 
 To strictly satisfy computer science rigor, **all data structures were implemented without the C++ STL**:
